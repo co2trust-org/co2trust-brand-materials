@@ -1,0 +1,6 @@
+Retail Price,Supplier Price,Marketplace Fee (17%),Finders Fee,Supplier Payment,Buyer Payment,Sales Agent Payment,Supplier Margin %,Marketplace Margin %,Sales Agent Margin %,Total Fees %,Supplier Cost per Unit,Marketplace Cost per Unit,Sales Agent Cost per Unit
+1000,650,170,180,650,1000,180,65.00%,17.00%,18.00%,35.00%,650,170,180
+2000,1300,340,360,1300,2000,360,65.00%,17.00%,18.00%,35.00%,1300,340,360
+5000,3250,850,900,3250,5000,900,65.00%,17.00%,18.00%,35.00%,3250,850,900
+7500,4875,1275,1350,4875,7500,1350,65.00%,17.00%,18.00%,35.00%,4875,1275,1350
+10000,6500,1700,1800,6500,10000,1800,65.00%,17.00%,18.00%,35.00%,6500,1700,1800 
